@@ -1,0 +1,1 @@
+for example, we create a for loop for printing 1-10 numbers. here, if we use break at i==4, then althou we asked for 1-10, we'll only get 1-4 as it will terminate the program when i==4. In case of continue, when i==4, it will ignore its presence and print 1-10 excluding 4
