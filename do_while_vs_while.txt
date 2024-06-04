@@ -1,0 +1,1 @@
+The difference between do while and while is that while will check the condition before executing the input , i.e. there is a chance that the program may not be executed even once. But in case of do_while, the program will be executed atleast once because here, we execute the command first and then check whether it satisfies the condition or not.
