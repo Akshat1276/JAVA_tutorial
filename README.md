@@ -12,3 +12,5 @@ Java tutorial from W3 Schools
 5)recursion
 
 6)OOP
+
+7)Editing Attributes
