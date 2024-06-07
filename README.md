@@ -15,4 +15,4 @@ Java tutorial from W3 Schools
 
 7)Editing Attributes
 
-8)Multiple Attributes
+8)Multiple Attribute
