@@ -14,3 +14,5 @@ Java tutorial from W3 Schools
 6)OOP
 
 7)Editing Attributes
+
+8)Multiple Attributes
