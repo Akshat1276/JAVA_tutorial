@@ -1,6 +1,6 @@
 public class Main {
   static void myMethod() {
-    System.out.println("nelon world");
+    System.out.println("bear grills");
   }
 
   public static void main(String[] args) {
