@@ -1,6 +1,6 @@
 public class Main {
   static void myMethod() {
-    System.out.println("mmerolds");
+    System.out.println("mirage");
   }
 
   public static void main(String[] args) {
