@@ -1,6 +1,6 @@
 public class Main {
   static void myMethod() {
-    System.out.println("pibobshahest");
+    System.out.println("lopition");
   }
 
   public static void main(String[] args) {
