@@ -2,7 +2,7 @@ public class Main {
     int x = 1;
   
     public static void main(String[] args) {
-      Main myobj = new Main();
+      Main myObj = new Main();
       myObj.x = 24; // x is now 24
       System.out.println(myObj.x);
     }
