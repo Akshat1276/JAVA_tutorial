@@ -3,7 +3,7 @@ public class Main {
   
     public static void main(String[] args) {
       Main myObj = new Main();
-      myObj.x = 24; // x is now 24
+      myObj.x = 25; // x is now 25
       System.out.println(myObj.x);
     }
   }
